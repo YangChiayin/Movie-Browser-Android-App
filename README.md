@@ -1,6 +1,6 @@
 # Movie Browser Android App
 <img src="https://github.com/user-attachments/assets/c7eb51f0-a310-43e2-9b84-6bcadb3bfb98" width="200" />
-<img src="https://github.com/user-attachments/assets/a509543f-8b52-4e0d-a5be-392be09de039" width="200" />
+<img src="https://github.com/user-attachments/assets/cdb650b5-5033-4100-8df1-d4a35ad32da8" width="200" />
 <img src="https://github.com/user-attachments/assets/ccaf02e2-3001-4534-a3c5-4f4bf1709908" width="200" />
 
 ## **About**
