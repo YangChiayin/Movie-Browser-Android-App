@@ -1,11 +1,11 @@
 # Movie Browser Android App
 
-## 📌 **About**
+## **About**
 A modern Android application that lets users explore movies using the **OMDb API**. This app provides a seamless movie browsing experience with detailed information about movies including posters, ratings, and descriptions.
 
 ---
 
-## 🚀 **Features**
+## **Features**
 - **Search and browse movies** from OMDb database  
 - **View detailed movie information:**
   - High-quality movie posters  
@@ -18,7 +18,7 @@ A modern Android application that lets users explore movies using the **OMDb API
 
 ---
 
-## ⚙️ **Technical Stack**
+## **Technical Stack**
 - **Platform:** Android  
 - **Language:** Java  
 - **Architecture:** MVVM  
