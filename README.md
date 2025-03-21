@@ -1,4 +1,8 @@
 # Movie Browser Android App
+![Screenshot_20250320_213313](https://github.com/user-attachments/assets/c7eb51f0-a310-43e2-9b84-6bcadb3bfb98)
+![Screenshot_20250320_213335](https://github.com/user-attachments/assets/a509543f-8b52-4e0d-a5be-392be09de039)
+![Screenshot_20250320_213345](https://github.com/user-attachments/assets/ccaf02e2-3001-4534-a3c5-4f4bf1709908)
+
 
 ## **About**
 A modern Android application that lets users explore movies using the **OMDb API**. This app provides a seamless movie browsing experience with detailed information about movies including posters, ratings, and descriptions.
